@@ -1,5 +1,5 @@
 import random
-print("GENERATE A BAND NAME")
+print("\nGENERATE A BAND NAME")
 print("Tell us a bit about your band!")
 adj1 = input("\t\033[32m Positive adjective to describe your band: \033[0m") #\033[33m adds color to the text
 adj2 = input("\t\033[32m Negative adjective to describe your band: \033[0m")
