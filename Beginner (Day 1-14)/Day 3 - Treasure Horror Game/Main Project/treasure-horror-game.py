@@ -26,7 +26,7 @@ if (choice == 1) or (choice == 2):
          print("\t[1] Trust it and go back to the basement\n\t[2] Go to the second room with the porcelain doll")
          choice = int(input("What should you do? "))
          if(choice == 1):
-            print("\n\033[32mYou decided to trust it and found the treasure and escape! [SAFE ENDING]\033[0m")
+            print("\n\033[32mYou decided to trust it and found the treasure and escape! [SAFE ENDING]\033[0m\n")
       if(choice == 2):
          print("\n\033[31mIt was a trap! The doll turned into mother and killed you [GAME OVER]\033[0m")
     else:
