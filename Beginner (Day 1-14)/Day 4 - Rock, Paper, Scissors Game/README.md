@@ -1,4 +1,4 @@
-# Day 3 - Randomisation and Python Lists
+# Day 4 - Randomisation and Python Lists
 ## Concepts Used:
 - Using modules (random, getpass, et al.)
 - Lists and Nested Lists
