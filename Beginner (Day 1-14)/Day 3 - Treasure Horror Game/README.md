@@ -5,6 +5,8 @@
 - Multiple If Statements in Succession
 - Modulo Operator
 - Logical Operators
+- Python methods (Love Calculator)
+- For loop (Love Calculator)
 
 ## Coding Exercises
 - [Leap Year Calculator](https://github.com/xialuna/100-Days-of-Python/blob/main/Beginner%20(Day%201-14)/Day%203%20-%20Treasure%20Horror%20Game/Coding%20Exercises/leapYear-calculator.py)
