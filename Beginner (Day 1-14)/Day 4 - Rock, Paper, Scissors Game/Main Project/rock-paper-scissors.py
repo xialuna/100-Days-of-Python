@@ -83,7 +83,7 @@ while count != round:
     elif p2_score > p1_score:
         print (f"\n\033[32mCongratulations {name2},YOU WON!\n\033[0m")
     else:
-      print (f"\n\033[31mIT'S a TIE, play a tie breaker \n\033[0m")
+      print ("\n\033[31mIT'S a TIE, play a tie breaker \n\033[0m")
       count-=1
       
         
