@@ -1,4 +1,4 @@
-# Day 5 - Python Functions & Karel
+# Day 6 - Python Functions & Karel
 ## Concepts Used:
 - Functions
 - While Loops
