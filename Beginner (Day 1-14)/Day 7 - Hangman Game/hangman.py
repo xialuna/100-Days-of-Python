@@ -71,7 +71,7 @@ while not gameOver:
      if word == keyWord:
         print(winLogo)
      else:
-        print("\n\n"+loseLogo)
+        print(loseLogo)
         print(f"The word is: {wordChoice}\n")
 
 
