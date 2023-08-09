@@ -28,9 +28,10 @@ while not end:
   cipher(message, shift, choice)
 
   choice = input("\nWould you like to try again?\n\t[Y] Yes\n\t[N] No(Exit)\nEnter Choice: ").upper()
+  print("\n-------------------------------------------------------------\n")
   if choice == 'N':
      end = True
 
-print("\nThank you for using my program!")
+print("\t   Thank you for using my program!\n")
 
 
