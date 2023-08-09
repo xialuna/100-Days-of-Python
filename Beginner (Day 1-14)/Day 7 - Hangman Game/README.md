@@ -1,4 +1,4 @@
-# Day 7 - Python Functions & Karel
+# Day 7 - Building Hangman Game
 ## Concepts Used:
 - Past lessons
 - List Comprehension
