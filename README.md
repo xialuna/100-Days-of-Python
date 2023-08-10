@@ -11,5 +11,5 @@ Compilation of source code for the projects made while taking the Udemy course: 
 - [Day 5: ](<https://github.com/xialuna/100-Days-of-Python/tree/main/Beginner%20(Day%201-14)/Day%205%20-%20Password%20Generator>) Password Generator
 - [Day 6: ](<https://github.com/xialuna/100-Days-of-Python/tree/main/Beginner%20(Day%201-14)/Day%206%20-%20Escape%20the%20Maze%20Solver>)Escape the Maze Solver
 - [Day 7: ](<https://github.com/xialuna/100-Days-of-Python/tree/main/Beginner%20(Day%201-14)/Day%207%20-%20Hangman%20Game>) Hangman Game
-
-(updated every 5-10 days)
+- [Day 8: ](<https://github.com/xialuna/100-Days-of-Python/tree/main/Beginner%20(Day%201-14)/Day%208%20-%20Caesar%20Cipher>) Caesar Cipher
+  (updated every 5-10 days)
