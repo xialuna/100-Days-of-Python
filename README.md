@@ -13,4 +13,4 @@ Compilation of source code for the projects made while taking the Udemy course: 
 - [Day 7: ](<https://github.com/xialuna/100-Days-of-Python/tree/main/Beginner%20(Day%201-14)/Day%207%20-%20Hangman%20Game>) Hangman Game
 - [Day 8: ](<https://github.com/xialuna/100-Days-of-Python/tree/main/Beginner%20(Day%201-14)/Day%208%20-%20Caesar%20Cipher>) Caesar Cipher
 - [Day 9: ](<https://github.com/xialuna/100-Days-of-Python/tree/main/Beginner%20(Day%201-14)/Day%209%20-%20Secret%20Auction%20Program>) Secret Auction Program
-  (updated every 5-10 days)
+- (updated every 5-10 days)
