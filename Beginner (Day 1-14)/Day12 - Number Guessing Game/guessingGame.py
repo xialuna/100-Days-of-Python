@@ -1,4 +1,5 @@
 import random
+from logo import logo
 EASY = 10
 HARD = 5
 guess = 0
@@ -8,7 +9,7 @@ def randomNum():
   range = 10 if choice == 1 else 100
   return random.randint(1,range)
 
-print("\n\t\033[36mWELCOME TO NUMBER GUESSING GAME!\033[0m")
+print(logo)
 difficulty = int(input("Choose level of difficulty:\n\t[1] Easy\n\t[2] Hard\nEnter Choice: "))
 limit = EASY if difficulty == 1 else HARD
 tries = limit
@@ -23,6 +24,6 @@ while answer != guess and tries > 0:
     print ("\033[35mThat's too high!\033[0m")
 
 if guess == answer:
-  print (f"\n\033[32mYOU WON! It took you {tries} tries to guess {answer}\033[0m")
+  print (f"\n\033[32mYOU WON! It took you {limit - tries} tries to guess {answer}\033[0m")
 else:
    print (f"\n\033[31mYOU LOSE! The number was {answer}\033[0m")
