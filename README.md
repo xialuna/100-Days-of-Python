@@ -15,3 +15,8 @@ Compilation of source code for the projects made while taking the Udemy course: 
 - [Day 9: ](<https://github.com/xialuna/100-Days-of-Python/tree/main/Beginner%20(Day%201-14)/Day%209%20-%20Secret%20Auction%20Program>) Secret Auction Program
 - [Day 10: ](<https://github.com/xialuna/100-Days-of-Python/tree/main/Beginner%20(Day%201-14)/Day10%20-%20Calculator>) Calculator
 - [Day 11: ](<https://github.com/xialuna/100-Days-of-Python/tree/main/Beginner%20(Day%201-14)/Day11%20-%20Blackjack%20Capstone%20Project>) Blackjack Capstone Project
+- [Day 12: ](<https://github.com/xialuna/100-Days-of-Python/tree/main/Beginner%20(Day%201-14)/Day12%20-%20Number%20Guessing%20Game>) Number Guessing Game
+- [Day 13: ](<https://github.com/xialuna/100-Days-of-Python/tree/main/Beginner%20(Day%201-14)/Day13%20-%20Debugging>) Debugging
+- [Day 14: ](<https://github.com/xialuna/100-Days-of-Python/tree/main/Beginner%20(Day%201-14)/Day14%20-%20Higher%20or%20Lower%20Game%20Project>) Higher or Lower Game Project
+
+## Intermediate

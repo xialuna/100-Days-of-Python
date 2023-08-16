@@ -12,7 +12,7 @@ def getData(compareData):
 
 def printData(data, letter):
   '''Format data and prints it'''
-  print(borderTop)
+  print(borderTop,end="")
   print(f'\t     Compare {letter}:\n\n\t{data["name"]}\n\tA {data["description"]}\n\tFrom {data["country"]}')
   print(borderBottom)
 
@@ -29,6 +29,7 @@ points = 0
 data_a = getData(data_a)
 
 while play:
+  os.system('cls')
   print(logo)
   data_b = getData(data_a)
   follows_a = data_a['follower_count']
@@ -45,7 +46,6 @@ while play:
     points += 1
     print(f"\n\033[32mYOU WERE RIGHT!\033[0m")
     sleep(1)
-    os.system('cls')
   else:
     print(f"\n\033[31mGAME OVER! You entered the wrong answer\033[0m\nFinal Score: {points}\n")
     play = False
