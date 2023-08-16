@@ -20,7 +20,7 @@ data = [
     {
         'name': 'Dwayne Johnson',
         'follower_count': 181,
-        'description': 'Actor and professional wrestler',
+        'description': 'Actor and Wrestler',
         'country': 'United States'
     },
     {
@@ -32,13 +32,13 @@ data = [
     {
         'name': 'Kylie Jenner',
         'follower_count': 172,
-        'description': 'Reality TV personality and businesswoman and Self-Made Billionaire',
+        'description': 'TV personality and Self-Made Billionaire',
         'country': 'United States'
     },
     {
         'name': 'Kim Kardashian',
         'follower_count': 167,
-        'description': 'Reality TV personality and businesswoman',
+        'description': 'TV personality and businesswoman',
         'country': 'United States'
     },
     {
@@ -80,7 +80,7 @@ data = [
     {
         'name': 'Kendall Jenner',
         'follower_count': 127,
-        'description': 'Reality TV personality and Model',
+        'description': 'TV personality and Model',
         'country': 'United States'
     },
     {
@@ -104,7 +104,7 @@ data = [
     {
         'name': 'Khloé Kardashian',
         'follower_count': 108,
-        'description': 'Reality TV personality and businesswoman',
+        'description': 'TV personality and businesswoman',
         'country': 'United States'
     },
     {
