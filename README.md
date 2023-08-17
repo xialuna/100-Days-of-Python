@@ -20,3 +20,5 @@ Compilation of source code for the projects made while taking the Udemy course: 
 - [Day 14: ](<https://github.com/xialuna/100-Days-of-Python/tree/main/Beginner%20(Day%201-14)/Day14%20-%20Higher%20or%20Lower%20Game%20Project>) Higher or Lower Game Project
 
 ## Intermediate
+
+- [Day 15: ](<https://github.com/xialuna/100-Days-of-Python/tree/main/Intermediate%20(Day%2015%20-%20Day%2057)/Day%2015%20-%20Coffee%20Machine%20Program>) Coffee Vending Machine Program

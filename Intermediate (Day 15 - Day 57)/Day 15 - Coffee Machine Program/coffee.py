@@ -7,7 +7,7 @@ def report():
     print(f"Money: ₱ {earnings}\n\033[0m")
 
 def calculateCoins():
-    print("\x1B[3m"+"Please Insert Coins..."+"\x1B[0m")
+    print("\n\x1B[3m"+"Please Insert Coins..."+"\x1B[0m")
     total = int(input("Number of ₱20 coins: ")) * 20
     total += int(input("Number of ₱10 coins: ")) * 10
     total += int(input("Number of ₱5 coins: ")) * 5
